@@ -92,6 +92,15 @@
 
 ###
 
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+  
 <div align="left">
   <a href="https://youtube.com/@primei.t1g?si=tacXbl09lbKYu0mW" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -109,3 +118,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreGoncallez/AndreGoncallez/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreGoncallez/AndreGoncallez/output/pacman-contribution-graph.svg">
 </picture>
+
+</details>
+
+<br>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
