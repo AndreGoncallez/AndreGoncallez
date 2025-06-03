@@ -45,7 +45,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=AndreGoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
     height=165
@@ -58,7 +58,7 @@
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreGoncallez&theme=tokyonight"
   />
   <br>
   <br>
@@ -66,7 +66,7 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=AndreGoncallez&theme=tokyonight&card_width=885"
   />
   </div>
 
