@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndreGoncallez&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -44,18 +44,18 @@
   <img
     height="120"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api/?username=AndreGoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
     height="120"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <img
-    height="120" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    height="120" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreGoncallez&theme=tokyonight"
   />
   <img
-    height="120" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    height="120" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=AndreGoncallez&theme=tokyonight&card_width=885"
   />
 </div>
 
