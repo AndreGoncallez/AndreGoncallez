@@ -42,24 +42,24 @@
 
 <div align="center">
   <img
-    height="120"
-    alt="GitHub Stats"
+    height="130"
+    alt "GitHub Stats"
     src="https://github-readme-stats.vercel.app/api/?username=AndreGoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
-    height="120"
+    height="130"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <img
-    height="120" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreGoncallez&theme=tokyonight"
+    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreGoncallez&theme=tokyonight"
   />
+  <br>
+  <br>
   <img
-    height="120" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=AndreGoncallez&theme=tokyonight&card_width=885"
+    height="130" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=AndreGoncallez&theme=tokyonight&card_width=885"
   />
 </div>
-
-
 
 ###
 
