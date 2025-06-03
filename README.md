@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndreGoncallez&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+   <img src="https://profile-counter.glitch.me/AndreGoncallez/count.svg?"  /> 
 </div>
       
 <br>
@@ -99,8 +99,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreGoncallez/AndreGoncallez/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AndreGoncallez/count.svg?"  />
-</div>
