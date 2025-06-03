@@ -11,7 +11,7 @@
   </samp>
 </div>
 <div align="center">
-   <img src="https://profile-counter.glitch.me/AndreGoncallez/count.svg?"  /> 
+   <img src="https://profile-counter.glitch.me/AndreGoncallez/count.svg?"  />
 </div>
       
 <br>
@@ -43,23 +43,23 @@
 <div align="center">
   <img
     height="130"
-    alt "GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=AndreGoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
   />
   <img
     height="130"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreGoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <img
-    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreGoncallez&theme=tokyonight"
+    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
   />
-  <br>
-  <br>
   <img
-    height="130" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=AndreGoncallez&theme=tokyonight&card_width=885"
+    height="135" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
   />
 </div>
+
+
 
 ###
 
@@ -98,4 +98,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreGoncallez/AndreGoncallez/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreGoncallez/AndreGoncallez/output/pacman-contribution-graph.svg">
 </picture>
-
