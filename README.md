@@ -24,7 +24,7 @@
 </div>
 
 <div align="center" width="100%">
-   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21bdae&width=1100&size=18&center=true&lines=IT+Infrastructure+%26+Security+%7C+DevSecOps+in+Progress+%7C+Cloud+Security+%7C+CI%2FCD+Automation+%7C+CCNA+(in+progress)+%7C+Google+Cybersecurity+%7C+Cloud+Engineer+Track" alt="Typing SVG - Line 2"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21BDAE&width=1400&size=22&center=true&lines=IT+Infrastructure+%26+Security+DevSecOps+in+Progress+Cloud+Security+CI%2FCD+Automation+CCNA+(in+progress);Google+Cybersecurity+Professional+Cloud+Engineer+Track" alt="Typing SVG - IT & Security Roadmap"/>
 </div>
 
 <br>
