@@ -59,7 +59,7 @@
   alt="GitHub Streak Stats"
   src="https://github-readme-streak-stats.herokuapp.com?user=andregoncallez&theme=tokyonight&card_width=885"
 />
-
+<div align="Left">
 ## 🚀 Sobre mim:
 
 Sou um profissional de Tecnologia da Informação com mais de 20 anos de experiência em **Infraestrutura**, **Redes**, **Segurança da Informação**, **Business Intelligence** e **Gestão de Projetos Técnicos**.
