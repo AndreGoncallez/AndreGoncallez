@@ -40,6 +40,26 @@
 
 ---
 
+<div align="center">
+  <img
+    height="130"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=andregoncallez&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+  />
+  <img
+    height="130"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregoncallez&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <img
+    height="130" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andregoncallez&theme=tokyonight"
+  />
+<img
+  height="135"
+  alt="GitHub Streak Stats"
+  src="https://github-readme-streak-stats.herokuapp.com?user=andregoncallez&theme=tokyonight&card_width=885"
+/>
+
 ## 🚀 Sobre mim:
 
 Sou um profissional de Tecnologia da Informação com mais de 20 anos de experiência em **Infraestrutura**, **Redes**, **Segurança da Informação**, **Business Intelligence** e **Gestão de Projetos Técnicos**.
