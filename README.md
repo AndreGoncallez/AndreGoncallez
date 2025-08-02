@@ -59,33 +59,36 @@
   alt="GitHub Streak Stats"
   src="https://github-readme-streak-stats.herokuapp.com?user=andregoncallez&theme=tokyonight&card_width=885"
 />
+
+  ---
+##
+<h2 align="Left">🚀 Sobre mim:</h2>
+<br>
+<h2 align="Center"> ⛓️‍💥 Conectando Liderança de Negócios com Engenharia de Cloud e Segurança </h2>
+
+<br>
+<h2 align="Left"> 🪄 Minha Filosofia de Trabalho </h2>
+<br>
+
 <div align="Left">
-## 🚀 Sobre mim:
+Minha jornada na tecnologia não foi linear, e essa se tornou minha maior vantagem competitiva. Comecei no desenvolvimento de software, onde aprendi a paixão por resolver problemas complexos através do código.
 
-Sou um profissional de Tecnologia da Informação com mais de 20 anos de experiência em **Infraestrutura**, **Redes**, **Segurança da Informação**, **Business Intelligence** e **Gestão de Projetos Técnicos**.
+Em um segundo momento, mergulhei no universo do empreendedorismo. À frente de negócios próprios, aprendi na prática sobre gestão de pessoas, planejamento estratégico e, o mais crucial, sobre como cada decisão técnica impacta diretamente o resultado financeiro de uma empresa. Foi uma imersão profunda em P&L, otimização de processos e liderança.
 
-### Atualmente em transição para:
-- **DevSecOps Engineer**
-- **Cloud Security Engineer**
+Essa experiência dupla me deu uma convicção: a tecnologia mais poderosa é aquela que serve a um propósito de negócio claro e mensurável.
 
-Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastructure as Code)** e **Monitoramento/Observabilidade de ambientes Cloud Native**.
+Hoje, de volta ao epicentro da tecnologia, meu trabalho é a materialização dessa filosofia. Neste espaço, você encontrará projetos, automações e estudos focados em **SecDevOps, Redes e Segurança em Nuvem (GCP)**. Cada repositório é uma exploração prática de como podemos construir sistemas mais seguros, resilientes e eficientes, sempre conectando a engenharia de ponta aos resultados que realmente importam. 
 
----
+<div align="Left">* 💡 Atualmente explorando a automação da segurança em pipelines CI/CD.
+<div align="Left">* ☁️ Focado em arquiteturas serverless e de contêineres no **Google Cloud**.
+<div align="Left">* 🛡️ Construindo e documentando `runbooks` para resposta a incidentes e hardening de sistemas.
 
-## 🎯 Certificações & Formação em andamento:
+  ---
+<br>
+<div align="Left">
+<h2> 🛠️ Tecnologias e Ferramentas.</h2>
 
-- 📍 **CCNA - Cisco (Concluindo Dez/2025)**
-- 📍 **Google Cybersecurity Professional Certificate (em andamento)**
-- 📍 **Google Associate Cloud Engineer (Q1 2026)**
-- 📍 **Google Professional Cloud Security Engineer (Meta Q2/Q3 2026)**
-- 📍 Pós-graduação em **Cibersegurança e Governança de Dados** (PUC Minas - 2026)
-
----
-
-## 🧱 Tecnologias e Ferramentas que estou trabalhando:
-
-### 🧱 Tecnologias e Ferramentas que estou trabalhando:
-
+ 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="height:30px;" width="36" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:30px;" width="36" />
@@ -99,9 +102,54 @@ Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastruc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="height:30px;" width="36" />
 </p>
 
+---
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Cloud & Segurança</h3>
+      <p align="left">
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Firewall-D9534F?style=for-the-badge&logo=pfsense&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/SecDevOps-4B5D67?style=for-the-badge&logo=git&logoColor=white"></a>
+      </p>
+      <h3>Monitoramento & Observabilidade</h3>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Sistemas & Infraestrutura</h3>
+        <p align="left">
+          <a href="#"><img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows-server&logoColor=white"></a>
+          <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+          <a href="#"><img src="https://img.shields.io/badge/VMware-6B7AB8?style=for-the-badge&logo=vmware&logoColor=white"></a>
+      </p>
+      <h3>Automação & Scripting</h3>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"></a>
+        <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
+## 🎯 Certificações & Formação em andamento:
+
+- 📍 **CCNA - Cisco (Concluindo Dez/2025)**
+- 📍 **Google Cybersecurity Professional Certificate (em andamento)**
+- 📍 **Google Associate Cloud Engineer (Q1 2026)**
+- 📍 **Google Professional Cloud Security Engineer (Meta Q2/Q3 2026)**
+- 📍 Pós-graduação em **Cibersegurança e Governança de Dados** (PUC Minas - 2026)
+
+---
 ## 📂 Projetos e Labs em andamento:
 
 - ✅ **Pipeline CI/CD Seguro com GitHub Actions + Snyk**
@@ -126,16 +174,16 @@ Com foco em **Cloud (GCP, AWS)**, **CI/CD Pipelines seguros**, **IaC (Infrastruc
 - 🛡️ Avançar com Docker, Kubernetes e observabilidade de segurança
 
 ---
-
-<div align="center">
   <samp>
-    <b>
-      Contact me:
+   <b>
+    <h2> 🌐 Contact me: </h2>
     </b>
   </samp>
-  <br>
-  <br>
   
+  <br>
+      Adoraria trocar ideias sobre tecnologia, liderança e como construir soluções que geram impacto real.
+  <br>
+  <br>
 <div align="left">
   <a href="https://youtube.com/@primei.t1g?si=tacXbl09lbKYu0mW" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
