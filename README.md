@@ -141,13 +141,57 @@ Hoje, de volta ao epicentro da tecnologia, meu trabalho é a materialização de
 
 ---
 
-## 🎯 Certificações & Formação em andamento:
+## 🎯 Certificações & Formação Acadêmica
 
-- 📍 **CCNA - Cisco (Concluindo Dez/2025)**
-- 📍 **Google Cybersecurity Professional Certificate (em andamento)**
-- 📍 **Google Associate Cloud Engineer (Q1 2026)**
-- 📍 **Google Professional Cloud Security Engineer (Meta Q2/Q3 2026)**
-- 📍 Pós-graduação em **Cibersegurança e Governança de Dados** (PUC Minas - 2026)
+### 📚 Em Andamento
+
+- 📍 **CCNA – Cisco (conclusão prevista: Dez/2025)**
+- 📍 **Linux LPIC-1 – LPI (exame previsto: Nov/2025)**
+- 📍 **Google Cybersecurity Professional Certificate – Google Cloud Academy**
+- 📍 **Google Associate Cloud Engineer (ACE) – Certificação planejada para Q1 2026**
+- 📍 **Google Professional Cloud Security Engineer – Meta Q2/Q3 2026**
+- 📍 Pós-graduação em **Cibersegurança e Governança de Dados** – PUC Minas (conclusão: 2026)
+
+---
+
+### ✅ Certificações Concluídas
+
+#### 🔐 Cibersegurança
+
+| Certificação | Instituição | Conclusão | Validade | Verificação |
+|--------------|-------------|-----------|----------|-------------|
+| **Fortinet Certified Fundamentals (Cybersecurity)** | Fortinet | Sep 2, 2024 | Sep 2, 2026 | [Credly](https://www.credly.com/badges/d21ce23e-d5ec-49cd-9f63-c832b6656768/public_url) |
+| **Fortinet Certified Associate (Cybersecurity)** | Fortinet | Sep 2, 2024 | Sep 2, 2026 | [Credly](https://www.credly.com/badges/23140df9-6c81-4db6-b0bd-64adb5882db4/public_url) |
+| **Getting Started in Cybersecurity 2.0** | Fortinet | Aug 27, 2024 | Permanente | [Credly](https://www.credly.com/badges/92a10f77-3254-4faa-8133-1c1b4ff86df8/public_url) |
+| **Introduction to the Threat Landscape 2.0** | Fortinet | Aug 16, 2024 | Permanente | [Credly](https://www.credly.com/badges/05a23b64-8635-4c03-8a24-649eaad4af4e/public_url) |
+
+
+#### 🌐 Redes e Infraestrutura
+
+| Certificação | Instituição | Conclusão | Validade | Verificação |
+|--------------|-------------|-----------|----------|-------------|
+| **CCNA: Introduction to Networks** | Cisco | Jan 14, 2025 | Permanente | [Credly](https://www.credly.com/badges/905c4b92-20d3-478c-8fa4-6b3525a5955a/public_url) |
+| **Network Defense** | Cisco | Apr 6, 2025 | Permanente | [Credly](https://www.credly.com/badges/26e6d048-6cb0-48de-9ebc-36546cbde61c/public_url) |
+| **Network Technician Career Path** | Cisco | Apr 14, 2025 | Permanente | [Credly](https://www.credly.com/badges/5caad1ea-1f79-4feb-8705-55c08977c654/public_url) |
+| **FortiGate 7.4 Operator (NSE)** | Fortinet | Sep 2, 2024 | Permanente | [Credly](https://www.credly.com/badges/458cfe3b-e624-40b1-bf03-dcbc8b006d62/public_url) |
+
+#### 🧠 Soft Skills e Educação Contínua
+
+| Certificação | Instituição | Conclusão | Validade | Verificação |
+|--------------|-------------|-----------|----------|-------------|
+| **Lifelong Learning** | CertiProf | Feb 23, 2024 | Permanente | — |
+| **Remote Work Professional Certification - RWPC™** | CertiProf | — | Expira: May 8, 2027 | — |
+
+
+---
+
+### 📚 Formação em Andamento
+
+- 🎓 Pós-graduação em **Cibersegurança e Governança de Dados** – *PUC Minas* (Previsão: 2026)  
+- 🎓 **Google Cybersecurity Professional Certificate** *(em andamento)*  
+- 📖 **Google Associate Cloud Engineer** *(meta: Q1 2026)*  
+- 📖 **Google Professional Cloud Security Engineer** *(meta: Q2/Q3 2026)*  
+- 📖 **CCNA (Cisco)** – *Fase 2 em andamento, conclusão até Dez/2025*  
 
 ---
 ## 📂 Projetos e Labs em andamento:
