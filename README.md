@@ -14,9 +14,6 @@
    <img src="https://profile-counter.glitch.me/AndreGoncallez/count.svg?"  />
 </div>
 
-<br>
-<br>
-
 <div align="center">
  <div style="text-align: center;">
   <img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZvamVncjhkeXVsd2w0bWE5ZzlsbXQ0NnMxcTVkYW51cmNiYzJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cd7Y7tJ4pHbGM/giphy.gif"  />
@@ -26,19 +23,48 @@
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=21BDAE&width=1400&size=22&center=true&lines=DevSecOps+Practitioner,+Cloud+Security+Engineer+(Google+Track);Infraestrutura+%26+Ciberseguran%C3%A7a,+Projetos+%C3%81geis,+Power+BI" alt="Typing SVG - Perfil Profissional"/>
 </div>
-
 <br>
 
-<details align="center">  
+  <details align="center" height="300">
   <summary>
       <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+       <b>More Info<b>
+           </samp>
+
+  ---
+<div align="Center">
+    <a href="https://www.youtube.com/@PrimeI.T?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.youtube.com/@PrimeI.T">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+    </a> 
+    <a href="https://github.com/Andregoncallez?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Andregoncallez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.coma/Andregoncallez?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Andregoncallez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+ </summary>
   
   <br>
-
----
 
 <div align="center">
   <img
@@ -84,40 +110,6 @@ Hoje, de volta ao epicentro da tecnologia, meu trabalho é a materialização de
 <div align="Left">* 🛡️ Construindo e documentando `runbooks` para resposta a incidentes e hardening de sistemas.  
 
 ---
-
-<br>
-<div align="left">
-    <a href="https://www.youtube.com/@PrimeI.T?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@PrimeI.T">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Andregoncallez?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Andregoncallez?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.coma/Andregoncallez?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Andregoncallez?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-  ---
 <br>
 <div align="Left">
 <h2> 🛠️ Tecnologias e Ferramentas.</h2>
