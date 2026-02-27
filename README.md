@@ -1,111 +1,116 @@
-# Main — Professional Technical Hub
+# Andre Goncallez
 
-This repository is the central navigation hub of my GitHub profile.
-
-It connects my work in **Infrastructure, Networking, Cloud, Security, and DevSecOps** into a structured and easy-to-evaluate format, focused on real-world engineering scenarios.
-
----
-
-## 👤 Profile Overview
-
-I am an Infrastructure and Support Analyst with a strong focus on **Cloud Engineering, Security, and DevSecOps fundamentals**.
-
-My approach emphasizes:
-- Practical infrastructure and network operations
-- Security-first architecture
-- Automation and repeatability
-- Clear documentation and operational context
-
-Technology, for me, is not just about tools — it is about **building reliable, secure, and observable systems**.
+Infrastructure & Network Support • Automation • Observability  
+Building toward Cloud Engineering and Security Operations
 
 ---
 
-## 🧭 Hub Structure
+## About
 
-This repository contains no direct code.  
-Its purpose is to **guide reviewers through my technical work**.
+I work with IT infrastructure, networking and technical support, with hands-on experience in operational environments, including:
 
-Each linked repository includes:
-- Hands-on labs
-- Clear documentation
-- Architecture or flow descriptions
-- Operational and security considerations
+- Network infrastructure (LAN/WAN, switching, basic segmentation, cabling and fiber)
+- Windows Server administration and virtualization (Hyper-V)
+- Monitoring and observability (Zabbix, Grafana)
+- Backup routines and environment support
 
----
-
-## 🏗️ Infrastructure & Datacenter
-
-**Focus**
-- On-prem and hybrid infrastructure concepts
-- Network segmentation and organization
-- Monitoring and operational resilience
-
-📦 `PrimeOps-Datacenter`
+I am evolving from support-driven operations to more structured and engineering-oriented environments, focusing on automation, observability and security practices.
 
 ---
 
-## 🌐 Networking & Support Operations
+## Core Areas
 
-**Focus**
-- LAN and switching fundamentals
-- NOC-style troubleshooting
-- Network defense concepts
-- Technical documentation and workflows
-
-📦 `Network-Support-Projects-LAN-Switches-NOC`
+- **Operational Support & Troubleshooting**
+- **Networking Fundamentals** (switching, segmentation, support scenarios)
+- **Observability** (metrics, dashboards, basic alerting)
+- **Automation (in progress)**
+- **Cloud & Security (in progress)**
 
 ---
 
-## ☁️ Cloud Engineering & Automation
+## Featured Projects
 
-**Focus**
-- Cloud fundamentals (GCP & AWS)
-- Infrastructure as Code (Terraform)
-- IAM and secure access models
-- Cloud-oriented automation
+### PrimeOps Datacenter (Lab Environment)
+Structured lab environment simulating real infrastructure scenarios:
 
-📦 Cloud labs distributed across infrastructure and DevSecOps repositories
+- Network organization and segmentation
+- Monitoring and observability setup
+- Identity and system structure (in progress)
 
----
-
-## 🔐 Security & DevSecOps
-
-**Focus**
-- Secure CI/CD pipelines
-- Static, dependency, and container security scanning
-- Cloud security fundamentals
-- Security as code mindset
-
-📦 `DevSecOps-Labs-CI-CD-Automation-Security-Scans`  
-📦 `Cybersecurity-Utilities-Network-Cloud-Security`
+→ Focus: understanding how systems connect and operate  
+https://github.com/AndreGoncallez/PrimeOps-Datacenter
 
 ---
 
-## 📊 Observability & Monitoring
+### DevSecOps Labs (CI/CD Experiments)
+Basic pipelines and experiments with:
 
-**Focus**
-- Metrics, logs, and alerting
-- Infrastructure and security observability
-- Incident support and troubleshooting
+- GitHub Actions
+- Security checks concepts
+- Pipeline validation
 
-Applied across multiple projects using tools such as Grafana and Prometheus.
-
----
-
-## 🚀 How to Review This Profile
-
-1. Start with this `Main` hub
-2. Explore pinned repositories
-3. Review documentation and labs
-4. Assess structure, depth, and security mindset
+→ Focus: learning how security integrates into delivery workflows  
+https://github.com/AndreGoncallez/DevSecOps-Labs-CI-CD-Automation-Security-Scans
 
 ---
 
-## 🌐 Links
+### Network Support Labs (Troubleshooting)
+Hands-on scenarios based on real support situations:
 
-- LinkedIn: https://linkedin.com/in/andregoncallez
-- Website: https://primeops.tech
+- VLANs and switching basics
+- Configuration practice
+- Troubleshooting exercises (ongoing)
+
+→ Focus: operational problem-solving  
+https://github.com/AndreGoncallez/Network-Support-Projects-LAN-Switches-NOC
 
 ---
 
-> This hub reflects my focus on building secure, observable, and well-documented systems across infrastructure, cloud, and DevSecOps.
+### Cybersecurity Utilities (Work in Progress)
+Small scripts and tools for:
+
+- Log analysis (initial)
+- Operational checks
+- Basic automation
+
+---
+
+## Additional Work
+
+- **PrimeOps Framework**  
+  Operational methodology for structured troubleshooting and system understanding.
+
+- **Hoot AI**  
+  Decision-support system for troubleshooting and operational workflows.
+
+---
+
+## Current Learning Path
+
+### In Progress
+- CCNA (Networking)
+
+### Roadmap
+- LPIC-1 (Linux)
+- Cisco CyberOps Associate
+- Google Cloud (Associate → Professional)
+
+---
+
+## Approach
+
+- Understand systems before changing them  
+- Focus on identifying root causes  
+- Document processes for consistency  
+- Build and validate through practical scenarios and labs  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/andregoncallez  
+GitHub: https://github.com/AndreGoncallez
+
+---
+
+> Think before acting. Understand before changing. Document to evolve.
