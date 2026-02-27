@@ -1,7 +1,7 @@
 # Andre Goncallez
 
-Infrastructure & Network Support • Automation • Observability  
-Building toward Cloud Engineering and Security Operations
+Infrastructure Analyst | Cloud & Security (in progress)  
+DevOps & DevSecOps fundamentals • Networking • Automation • Observability
 
 ---
 
@@ -77,7 +77,7 @@ Small scripts and tools for:
 
 ## Additional Work
 
-- **PrimeOps Framework**  
+- **PrimeOps (framework in development)**  
   Operational methodology for structured troubleshooting and system understanding.
 
 - **Hoot AI**  
