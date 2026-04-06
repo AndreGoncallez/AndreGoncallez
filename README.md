@@ -1,6 +1,6 @@
 # Andre Goncallez
 
-Infrastructure Analyst | Cloud & Security (in progress)  
+Infrastructure Analyst (Junior)| Cloud & Security (in progress)  
 DevOps & DevSecOps fundamentals • Networking • Automation • Observability
 
 ---
@@ -105,6 +105,12 @@ Small scripts and tools for:
 - Build and validate through practical scenarios and labs  
 
 ---
+
+## ⚡ PrimeOps Mindset
+> Think before doing. 
+> Understand before modifying.  
+> Document for growth.
+
 
 ## Contact
 
