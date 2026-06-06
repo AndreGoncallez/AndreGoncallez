@@ -1,122 +1,87 @@
-# Andre Goncallez
+# André Goncallez
 
-Infrastructure Analyst (Junior)| Cloud & Security (in progress)  
-DevOps & DevSecOps fundamentals • Networking • Automation • Observability
-
----
-
-## About
-
-I work with IT infrastructure, networking and technical support, with hands-on experience in operational environments, including:
-
-- Network infrastructure (LAN/WAN, switching, basic segmentation, cabling and fiber)
-- Windows Server administration and virtualization (Hyper-V)
-- Monitoring and observability (Zabbix, Grafana)
-- Backup routines and environment support
-
-I am evolving from support-driven operations to more structured and engineering-oriented environments, focusing on automation, observability and security practices.
+**Infrastructure & Security Engineer · DevSecOps · Observability**
+Fortaleza, BR · [LinkedIn](https://linkedin.com/in/andregoncallez) · [PrimeOps](https://primeops.tech)
 
 ---
 
-## Core Areas
+## What I do
 
-- **Operational Support & Troubleshooting**
-- **Networking Fundamentals** (switching, segmentation, support scenarios)
-- **Observability** (metrics, dashboards, basic alerting)
-- **Automation (in progress)**
-- **Cloud & Security (in progress)**
+I design, operate and secure hybrid infrastructure environments — from physical hardware to cloud-connected workloads.
 
----
+My work spans network architecture, security operations, automation pipelines and observability stacks. I build things that run in production, document how they work and automate what can be automated.
 
-## Featured Projects
-
-### PrimeOps Datacenter (Lab Environment)
-Structured lab environment simulating real infrastructure scenarios:
-
-- Network organization and segmentation
-- Monitoring and observability setup
-- Identity and system structure (in progress)
-
-→ Focus: understanding how systems connect and operate  
-https://github.com/AndreGoncallez/PrimeOps-Datacenter
+Currently operating a private hybrid datacenter (Proxmox, 8C/16T Xeon, 32GB RAM) with full VLAN segmentation, active SIEM, and integrated monitoring — used as both a production environment and a structured lab for real-world security scenarios.
 
 ---
 
-### DevSecOps Labs (CI/CD Experiments)
-Basic pipelines and experiments with:
+## Core Stack
 
-- GitHub Actions
-- Security checks concepts
-- Pipeline validation
+**Infrastructure**
+Proxmox VE · Windows Server 2022 · Linux (Debian/Ubuntu) · Hyper-V · MikroTik RouterOS · VLANs · WireGuard VPN
 
-→ Focus: learning how security integrates into delivery workflows  
-https://github.com/AndreGoncallez/DevSecOps-Labs-CI-CD-Automation-Security-Scans
+**Security & Detection**
+Wazuh SIEM · Suricata · Zeek · Active Directory · RBAC · Zero Trust segmentation
 
----
+**Observability**
+Zabbix · Grafana · Prometheus · Node Exporter · alerting pipelines
 
-### Network Support Labs (Troubleshooting)
-Hands-on scenarios based on real support situations:
+**Automation**
+n8n · GLPI REST API · Evolution API (WhatsApp) · Terraform · GCP
 
-- VLANs and switching basics
-- Configuration practice
-- Troubleshooting exercises (ongoing)
-
-→ Focus: operational problem-solving  
-https://github.com/AndreGoncallez/Network-Support-Projects-LAN-Switches-NOC
+**In active use — not in progress, not planned.**
 
 ---
 
-### Cybersecurity Utilities (Work in Progress)
-Small scripts and tools for:
+## Featured Work
 
-- Log analysis (initial)
-- Operational checks
-- Basic automation
+### [PrimeOps Observability & Security Incident Lab](https://github.com/AndreGoncallez/primeops-observability-incident-lab)
+Production-like environment integrating infrastructure monitoring with security incident response.
+Includes simulated attack scenarios (brute force, PowerShell abuse, unauthorized persistence), Wazuh correlation rules, Grafana dashboards, incident runbooks and documented investigation workflows.
+`Prometheus` `Grafana` `Wazuh` `Docker` `SOC workflows`
 
----
+### [PrimeOps Datacenter](https://github.com/AndreGoncallez/PrimeOps-Datacenter)
+Hybrid lab architecture running on physical hardware.
+Full VLAN design (Admin / Users / IoT / SOC / DMZ), Proxmox hypervisor, Windows Server AD, MikroTik routing and segmentation, Wazuh SIEM, GitLab CI/CD — all documented with network diagrams, hardware specs and configuration references.
+`Proxmox` `MikroTik` `Wazuh` `Active Directory` `VLANs`
 
-## Additional Work
+### [LeadFlow Wizard](https://github.com/AndreGoncallez/leadflow-wizard-demo)
+Guided intake automation system built with React + TypeScript + n8n.
+Structures unorganized service requests into normalized JSON payloads routed to automation pipelines. Reduces manual triage and standardizes data before it reaches operational teams.
+`React` `TypeScript` `n8n` `Webhook automation`
 
-- **PrimeOps (framework in development)**  
-  Operational methodology for structured troubleshooting and system understanding.
+### [DevSecOps Labs](https://github.com/AndreGoncallez/DevSecOps-Labs-CI-CD-Automation-Security-Scans)
+CI/CD pipelines with integrated security scanning.
+GitHub Actions workflows with automated security checks and pipeline validation.
+`GitHub Actions` `CI/CD` `Security scanning`
 
-- **Hoot AI**  
-  Decision-support system for troubleshooting and operational workflows.
+### [Network Support Labs](https://github.com/AndreGoncallez/Network-Support-Projects-LAN-Switches-NOC)
+Hands-on scenarios from real operational support environments.
+VLAN configuration, switching troubleshooting and NOC-level incident documentation.
+`VLANs` `Switching` `NOC` `Troubleshooting`
 
----
-
-## Current Learning Path
-
-### In Progress
-- CCNA (Networking)
-
-### Roadmap
-- LPIC-1 (Linux)
-- Cisco CyberOps Associate
-- Google Cloud (Associate → Professional)
-
----
-
-## Approach
-
-- Understand systems before changing them  
-- Focus on identifying root causes  
-- Document processes for consistency  
-- Build and validate through practical scenarios and labs  
+### [Cybersecurity Utilities](https://github.com/AndreGoncallez/Cybersecurity-Utilities-Network-Cloud-Security)
+Operational scripts for log analysis, security checks and infrastructure automation.
+`Python` `Log analysis` `Security automation`
 
 ---
 
-## ⚡ PrimeOps Mindset
-> Think before doing. 
-> Understand before modifying.  
-> Document for growth.
+## Certifications & Active Study
 
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/andregoncallez  
-GitHub: https://github.com/AndreGoncallez
+| Status | Certification |
+|---|---|
+| ✅ Completed | CCNA Phase 1 (Cisco NetAcad) |
+| 🔄 In progress | CCNA Phase 2 · PUC Minas Cybersecurity & Data Governance (Postgrad) |
+| 📅 Next | CyberOps Associate · LPIC-1 · GCP Associate Cloud Engineer |
+| 🎯 Target | GCP Professional Cloud Security · OSCP · Georgia Tech OMS Cybersecurity (2028) |
 
 ---
 
-> Think before acting. Understand before changing. Document to evolve.
+## PrimeOps
+
+I run **PrimeOps**, a DevSecOps and infrastructure consultancy focused on security posture, observability and automation for organizations that need real operational maturity — not just compliance checkboxes.
+
+**Operational philosophy:**
+*Think before acting. Understand before changing. Document to evolve.*
+
+→ [primeops.tech](https://primeops.tech) · [linkedin.com/in/andregoncallez](https://linkedin.com/in/andregoncallez)
